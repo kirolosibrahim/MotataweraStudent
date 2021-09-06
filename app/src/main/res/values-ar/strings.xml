@@ -1,0 +1,152 @@
+<resources>
+
+    <string name="app_name">Motatawera</string>
+    <string name="default_notification_channel_id">News</string>
+    <string name="ruselt">النتيجة</string>
+
+    <string name="chose_for_the_blew_item">اختر من العناصر التالية</string>
+    <string name="pdf">PDF</string>
+    <string name="video">فيديو</string>
+    <string name="show">اعرض</string>
+    <string name="Login">تسجيل الدخول</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="logo">logo</string>
+    <string name="_2021_kmk_inc">© 2021 KMK Inc.</string>
+    <string name="password">الرقم السري</string>
+    <string name="ID">كود الطالب</string>
+    <string name="login">تسجي الدخول</string>
+    <string name="hey_we_need_few_details_from_you_before_you_start_sharing_on_motatawera">مرحبا! نحن نحتاج بعض البيانات قبل بدء الانضمام لفريق المتطوره</string>
+
+    <string name="email">البريد الالكتروني</string>
+    <string name="phone">الموبيل</string>
+    <string name="department">القسم</string>
+    <string name="level">الفرقة</string>
+    <string name="gender">النوع</string>
+    <string name="subject">المواد</string>
+    <string name="schedule">الجدول</string>
+    <string name="change_password">تغيير الرقم السري</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="save">حفظ</string>
+    <string name="arabic">العربية</string>
+    <string name="english">الانجليزيه</string>
+    <string name="chose_language">اختر اللغة</string>
+
+    <string name="hello_blank_fragment">مرحبا لا يوجد عناصر </string>
+    <string name="logout">تسجيل الخدوج</string>
+    <string name="post_fragment">المنشورات</string>
+    <string name="chat_fragment">الدردشة</string>
+    <string name="notification_fragment">الاشعارات</string>
+    <string name="profile_fragment">الصفحة الشخصية</string>
+    <string name="setting_fragment">الاعدادات</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main">الصفحة الرئيسيه</string>
+    <string name="title_home">الصفحة الرئيسيه</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">الاشعارات</string>
+
+
+    <string name="motatwera">المتطوره</string>
+    <string name="_8m">8m</string>
+    <string name="_2020_11_27_5_300_150_2020_11_19">متطورة_الهرم #_ تعلن إدارة المعهد عن تنظيم الحفل السنوى للخريجين وذلك يوم الجمعة الموافق 2020/11/27 الساعة الخامسة مساء بمدرج رقم 5 بالمعهد العالي للدراسات المتطورة بالهرم وقيمة الاشتراك للخريج 300 (ثلاثمائة جنيها) منها 150 (مائة وخمسون جنيها) تآمين ملابس الحفل تسترد بعد الحفل . آخر موعد للتسجيل يوم الخميس الموافق 2020/11/19 يسدد الاشتراك بمكتب رعاية الشباب بالمععد مع تمنياتنا للجميع بالنجاح والتوفيق وكل عام وأنتم بخير إدارة المعهد</string>
+    <string name="_50">50</string>
+    <string name="_20">20</string>
+    <string name="_10">10</string>
+    <string name="registration">التسجيل</string>
+    <string name="full_name">الاسم بالكامل</string>
+    <string name="register">تسجيل</string>
+    <string name="cominicate_with_a_hundred_of_students">تواصل مع عقل الطالب </string>
+    <string name="can_t_login_reset_password">لا يمكنني تسجيل الدخول ! استعاده كلمه السر</string>
+    <string name="makepost">What\'s on your mind?</string>
+    <string name="old_password">الرقم السري الحالي</string>
+    <string name="new_password">الرقم السري الجديد</string>
+    <string name="confirm_new_password">تاكيد الرقم السري</string>
+    <string name="changepasswordtitel">تغير الرقم السري</string>
+    <string name="motatawerasplashtitel">المتطورة</string>
+    <string name="loading_quiz">جاري تحميل الامتحان .....</string>
+    <string name="question">السؤال</string>
+    <string name="fetching_data">استرجاع البيانات</string>
+    <string name="next_question">السؤال التالي</string>
+    <string name="add_your_name_here">ادخل اسمك هنا </string>
+    <string name="add_your_phone_here">ادخل رقم الهاتف هنا</string>
+    <string name="update_profile">تحديث الصفحة الشخصية</string>
+    <string name="branch">الفرع</string>
+    <string name="start">ابدأ</string>
+    <string name="youtube">المواد</string>
+    <string name="quiz">امتحان</string>
+    <string name="profile">الصفحة الشخصية</string>
+    <string name="quiz_title">عنوان الامتحان</string>
+    <string name="name">الاسم</string>
+    <string name="code">كود الطالب</string>
+    <string name="no_pdf_avilable">لا يوجد PDF متوفر حاليا </string>
+    <string name="pdf_available">PDF متوفر</string>
+    <string name="no_video_vailable">لا يوجد فيديو متوفر</string>
+    <string name="video_available">يتوفر فيديو</string>
+    <string name="no_data_found_check_soon_">لا توجد بيانات متوفره حاليا تابع لاحقا ......</string>
+    <string name="no_data_added_till_now_check_soon">لم يتم اضافه بيانات حتي الان يرجي التحقق لاحقا ......"</string>
+    <string name="yes">نعم</string>
+    <string name="no_score_found">لا توجد نتيجه </string>
+    <string name="email_is_required">يرجي ادخال البريد الالكتروني</string>
+    <string name="invaild_emaill_address_email_must_be_yourname_company_com">بريد الكتروني غير صحيح /n يجب ان يكون example@exampel.com</string>
+    <string name="password_not_equal_confirm_password">الرقم السري لا يطابق تاكيد الرقم السري</string>
+    <string name="name_is_requried">يرجي ادخال الاسم</string>
+    <string name="phone_is_requied">يرجي ادخال رقم الهاتف </string>
+    <string name="invalid_phone_required">رقم هاتف غير صحيح</string>
+    <string name="data_added">تم اضافه البيانات بنجاح</string>
+    <string name="no_internt">لا يوجد اتصال بشبكه الانترنت</string>
+    <string name="please_enter_your_old_password">من فضلك ادخل الرقم السري السابق !</string>
+    <string name="please_enter_your_password">من فضلك ادخل الرقم السري</string>
+    <string name="please_enter_your_confirm_password">من فضلك قم بادخال تاكيد الرقم السري</string>
+    <string name="all_password_should_be_greater_than_6_char">جميع الارقام السريه يجب انت تكون افضل من 6 حروف وارقام</string>
+    <string name="new_password_should_be_equal_confirm_new_password">يجب ان يتساوي الرقم السري بتاكيد الرقم السري</string>
+    <string name="old_password_is_incorrect">الرقم السري غير صحيح</string>
+    <string name="please_wait">برجائ الانتظار ......</string>
+    <string name="password_update_successfully">تم تحديث الرقم السري بنجاح !</string>
+    <string name="please_enter_your_id">من فضلك ادخل كود الطالب</string>
+    <string name="User_name_or_password_incorrect">الاسم او الرقم السري غير صحيحان</string>
+    <string name="account_has_been_disable">الحساب موقوف</string>
+    <string name="upload">تحميل</string>
+    <string name="profile_update_successfully">تم تحديث الصفحه الشخصية بنجاح</string>
+    <string name="sure_want_to_logout">هل انت متاكد من انك تريد تسجيل الخروج؟</string>
+    <string name="no">لا</string>
+    <string name="complete_your_profile">اكمل صفحتك الشخصية</string>
+    <string name="time_out">\"انتهي الوقت \"</string>
+    <string name="load_firs_question">جاري تحميل اول سؤال</string>
+    <string name="exam_finish">انتهي الامتحان</string>
+    <string name="finish_exam">انهاء الامتحان</string>
+    <string name="password_must">الرقم السري يجب ان لا يقل عن 6 حروف</string>
+
+
+    <string-array name="User_Type">
+        <item>Admin</item>
+        <item>Doctor</item>
+        <item>Assistant</item>
+        <item>MIS</item>
+        <item>Business</item>
+    </string-array>
+
+    <string-array name="Student_lvl">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+        <item>Level 4 </item>
+    </string-array>
+    <string-array name="gender">
+        <item>ذكر</item>
+        <item>انثي</item>
+    </string-array>
+
+
+    <string-array name="branch">
+        <item>هرم</item>
+        <item>قطامية</item>
+    </string-array>
+
+    <string-array name="department">
+        <item>نظم النعلومات الادارية</item>
+        <item>تجارة</item>
+        <item>محاسبة</item>
+    </string-array>
+</resources>
